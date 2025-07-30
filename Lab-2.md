@@ -28,7 +28,8 @@ The following course and lab can be used to fulfill the prerequisites:
 - Introduction to DevOps
 - Deploying Infrastructure with Terraform in Azure
 
-```main.tf
+```main.tf ```
+
 ```hcl
 # Terraform
 terraform {
