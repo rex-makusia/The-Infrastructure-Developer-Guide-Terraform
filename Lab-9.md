@@ -38,7 +38,8 @@ The following course and lab can be used to fulfill the prerequisites:
 
 ### Modules Creation
 ```yaml
-terraform 
+terraform
+ -> maint.tf
   -> modules
           -> storage-account
               -> maint.tf
